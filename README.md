@@ -1,8 +1,6 @@
 # EchoSidebar
 
-A RuneLite-style sidebar library for [TRiBot](https://tribot.org/) scripts.
-
-![EchoSidebar Screenshot](https://i.imgur.com/placeholder.png)
+A utility for [TRiBot](https://tribot.org/) using the Tribot echo sidebar in scripts.
 
 ## Features
 
@@ -71,6 +69,3 @@ section("Banking") {
 | `EchoTheme.LIGHT` | Light background, muted accents |
 | `EchoTheme.OSRS` | Old School-styled brown/gold |
 
-## License
-
-MIT
